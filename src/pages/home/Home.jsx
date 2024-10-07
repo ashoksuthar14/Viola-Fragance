@@ -6,12 +6,20 @@ import ExploreSection from "../../components/exploresection/ExploreSection";
 const Home = () => {
     return (
         <Layout>
-            <HeroSection/>
+            {/* Assign id to HeroSection */}
+            <div id="hero">
+                <HeroSection />
+            </div>
 
-            <ProductSection/>
+            {/* Assign id to ProductSection */}
+            <div id="product">
+                <ProductSection />
+            </div>
 
-            <ExploreSection/>
-
+            {/* Assign id to ExploreSection */}
+            <div id="explore">
+                <ExploreSection />
+            </div>
         </Layout>
     );
 }

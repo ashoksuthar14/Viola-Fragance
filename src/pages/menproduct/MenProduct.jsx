@@ -1,6 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom'; // Ensure correct import of useNavigate
-// Adjust path as needed
+
+
 
 const menPerfumes = [
   {

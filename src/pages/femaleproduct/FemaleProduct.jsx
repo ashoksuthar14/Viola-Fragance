@@ -5,19 +5,19 @@ import { useNavigate } from 'react-router-dom'; // Ensure correct import of useN
 const menPerfumes = [
   {
     id: 1,
-    name: "Aqua Di Gio",
+    name: "yash",
     tag: "Fresh & Invigorating",
     image: "src/assets/per1.png"
   },
   {
     id: 2,
-    name: "Bleu de Chanel",
+    name: "Bleu de ",
     tag: "Bold & Masculine",
     image: "src/assets/per1.png"
   },
   {
     id: 3,
-    name: "Sauvage Dior",
+    name: "Sauvage imran",
     tag: "Woody & Spicy",
     image: "src/assets/per1.png"
   }
